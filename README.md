@@ -3,7 +3,7 @@
 
 ### 🌐 You can reach me at:
 [![Website](https://img.shields.io/badge/Website-4285F4.svg?logo=googlechrome&logoColor=white&style=for-the-badge)](https://www.mar1-dev.com/) 
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-%25D366.svg?logo=whatsapp&logoColor=white&style=for-the-badge)](https://wa.me/971526251203) 
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366.svg?logo=whatsapp&logoColor=white&style=for-the-badge)](https://wa.me/971526251203) 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836.svg?logo=gmail&logoColor=white&style=for-the-badge)](mailto:daghbadjmarwan@gmail.com) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/marwan-daghbadj-4ab5b3173/) 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2.svg?logo=Facebook&logoColor=white&style=for-the-badge)](https://www.facebook.com/daghbadj.marwan/) 
@@ -39,9 +39,9 @@
 ![GitHub](https://img.shields.io/badge/github-121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![Yarn](https://img.shields.io/badge/yarn-2C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
-![Nodemon](https://img.shields.io/badge/NODEMON-323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD)
+![Nodemon](https://img.shields.io/badge/NODEMON-323330.svg?style=for-the-badge&logo=nodemon&logoColor=BBDEAD)
 ![Vercel](https://img.shields.io/badge/vercel-000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=adobe%20xd&logoColor=#FF61F6)
+![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=adobe%20xd&logoColor=FF61F6)
 ![Figma](https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-34A853.svg?style=for-the-badge&logo=android&logoColor=white)
 ![IOS](https://img.shields.io/badge/IOS-000000.svg?style=for-the-badge&logo=ios&logoColor=white)
