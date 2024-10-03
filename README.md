@@ -2,7 +2,7 @@
 
 
 ### 🌐 You can reach me at:
-[![Website](https://img.shields.io/badge/Google%20Earth-4285F4?logo=Website&logoColor=white)](https://www.mar1-dev.com/) 
+[![Website](https://img.shields.io/badge/Google%20Earth-4285F4.svg?logo=Google%20Earth&logoColor=white)](https://www.mar1-dev.com/) 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-%25D366.svg?logo=whatsapp&logoColor=white)](https://wa.me/971526251203) 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836.svg?logo=gmail&logoColor=white)](mailto:daghbadjmarwan@gmail.com) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marwan-daghbadj-4ab5b3173/) 
