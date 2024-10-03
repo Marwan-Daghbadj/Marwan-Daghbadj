@@ -43,7 +43,9 @@
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=adobe%20xd&logoColor=FF61F6)
 ![Figma](https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-34A853.svg?style=for-the-badge&logo=android&logoColor=white)
+![Play Store](https://img.shields.io/badge/Play%20Store-414141.svg?style=for-the-badge&logo=googleplay&logoColor=white)
 ![IOS](https://img.shields.io/badge/IOS-000000.svg?style=for-the-badge&logo=ios&logoColor=white)
+![App Store](https://img.shields.io/badge/App%20Store-0D96F6.svg?style=for-the-badge&logo=appstore&logoColor=white)
 
 ### 💻 Other techs:
 
